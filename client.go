@@ -1,4 +1,4 @@
-package httpd
+package yc
 
 import (
 	"github.com/harluo/yc/internal/core"
