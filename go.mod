@@ -5,7 +5,7 @@ go 1.25.0
 require (
 	github.com/goexl/http v0.2.4
 	github.com/goexl/log v0.1.0
-	github.com/goexl/yc v0.1.0
+	github.com/goexl/yc v0.1.1
 	github.com/harluo/config v0.0.8
 	github.com/harluo/di v0.0.5
 )
